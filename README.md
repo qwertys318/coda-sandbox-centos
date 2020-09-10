@@ -10,7 +10,7 @@ Install docker
 ```
 sudo dnf -y config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 sudo dnf -y install https://download.docker.com/linux/centos/7/x86_64/stable/Packages/containerd.io-1.2.6-3.3.el7.x86_64.rpm
-sudo dnf install docker-ce docker-ce-cli
+sudo dnf -y install docker-ce docker-ce-cli
 ```
 
 Start docker
@@ -39,7 +39,7 @@ sudo dnf -y update
 ```
 sudo dnf -y config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo
 sudo dnf -y install https://download.docker.com/linux/centos/7/x86_64/stable/Packages/containerd.io-1.2.6-3.3.el7.x86_64.rpm
-sudo dnf install docker-ce docker-ce-cli
+sudo dnf -y install docker-ce docker-ce-cli
 ```
 
 Запуск docker

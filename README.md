@@ -1,3 +1,7 @@
+Ask your questions to:  
+My Telegram: @qwertys318  
+My Discord: qwertys318#6613  
+
 # EN Coda Sandbox Centos 8 Installation
 
 Update packages
